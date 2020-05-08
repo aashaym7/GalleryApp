@@ -1,0 +1,1 @@
+Both the extra credits are also added in the GalleryApp.java
