@@ -1,2 +1,2 @@
 # cs1302uga-gallery
-This includes my gallery app project that I did while I was enrolled in CS1302(Software Development) at UGA.
+A gallery app project that uses GUI interface to display itunes artists in a shuffle gallery format
